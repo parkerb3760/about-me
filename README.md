@@ -6,3 +6,4 @@
 - Gaming
 - Music
 
+![My Photo](dog.png)
